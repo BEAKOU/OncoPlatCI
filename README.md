@@ -2,7 +2,7 @@
 
 > **Mémoire de fin de cycle — Master Data Engineering | ISAE-ISM Paris | 2025-2026**  
 > Groupe DI24GP2 · Chef de groupe & contributeur principal : **BEAKOU AHIPAUD Emmanuel**  
-> Encadrant : Dr. TOKPAN · Soutenance : Juin 2026
+> Encadrant : Dr. TOPAN · Soutenance : Juin 2026
 
 ---
 
